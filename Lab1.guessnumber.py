@@ -7,11 +7,10 @@ def representsInteger(i):
 minNumber, maxNumber = 0, 20
 
 randomNumber = random.randint(minNumber, maxNumber)
-print randomNumber
-
 inputNumber = raw_input("Guess the number! [" + str(minNumber) + "," + str(maxNumber) + "]\t")
 
-while True:
+guessed = False
+while not guessed:
     if representsInteger(inputNumber):
         inputNumber = int(inputNumber)
         if inputNumber > randomNumber: 
@@ -20,5 +19,5 @@ while True:
             inputNumber = raw_input("Try a greater one!\t")
         else:
             print "GREAT!"
-            exit(0)
+            guessed = True
     else: inputNumber = raw_input("Write an INTEGER NUMBER!\t")
