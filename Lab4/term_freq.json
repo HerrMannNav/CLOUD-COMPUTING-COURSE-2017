@@ -15,47 +15,67 @@
       "values": [
         {
           "col": "data",
-          "idx": "#Telefonica",
-          "val": 13
-        },
-        {
-          "col": "data",
-          "idx": "#ransomwareTelefonica",
-          "val": 4
-        },
-        {
-          "col": "data",
-          "idx": "#telefonica",
-          "val": 3
-        },
-        {
-          "col": "data",
-          "idx": "#malware",
-          "val": 3
-        },
-        {
-          "col": "data",
-          "idx": "#Hackeo",
+          "idx": "#ransomeware",
           "val": 2
         },
         {
           "col": "data",
-          "idx": "#viernes",
+          "idx": "#Ransomeware",
+          "val": 2
+        },
+        {
+          "col": "data",
+          "idx": "#devasthana",
           "val": 1
         },
         {
           "col": "data",
-          "idx": "#FelizFinde",
+          "idx": "#Nayagarh",
           "val": 1
         },
         {
           "col": "data",
-          "idx": "#interesante",
+          "idx": "#IronTree",
           "val": 1
         },
         {
           "col": "data",
-          "idx": "#ciberataque",
+          "idx": "#WannaCry",
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": "#computers",
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": "#VirusAttack",
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": "#DigitalIndia",
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": "#security",
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": "#cybersecurity",
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": "#affects",
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": "#Odisha",
           "val": 1
         }
       ]
