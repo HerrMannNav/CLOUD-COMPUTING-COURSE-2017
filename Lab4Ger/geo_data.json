@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.23733163, 
+                    53.47822315
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Just posted a photo @ Central Manchester, Manchester https://t.co/0cMqSehzv1", 
+                "created_at": "Wed May 24 17:33:17 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.23698378, 
+                    53.42517204
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Come on utd! (@ The Greenfinch in West Didsbury, Gtr. Manchester) https://t.co/SNqfMOwpRQ", 
+                "created_at": "Wed May 24 17:33:34 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.11581005, 
+                    51.51351351
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": ".@OborneTweets \"Why MI6 must share the blame for jihadis\" https://t.co/ixAhTAz2ww via https://t.co/vMKqq8TvEM #Manchester", 
+                "created_at": "Sat May 27 11:07:00 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.2422, 
+                    53.4739
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "The girls meeting Bobby the sniffer dog at Manchester Oxford Road railway station. His presence\u2026 https://t.co/OTnl2vfxbB", 
+                "created_at": "Sat May 27 11:07:20 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.24231292, 
+                    53.48067772
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Sippin cocktails @ Jamie's @ Jamie's Italian Manchester https://t.co/csZKdAHH8U", 
+                "created_at": "Sat May 27 11:08:47 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    3.36181641, 
+                    6.49407679
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Iheanacho set to undergo West Ham medical as Manchester City reportedly accepts \u00a324m", 
+                "created_at": "Sat May 27 11:10:08 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    3.3792057, 
+                    6.5243793
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Iheanacho set to undergo West Ham medical as Manchester City reportedly accepts \u00a324m", 
+                "created_at": "Sat May 27 11:10:09 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    3.37280273, 
+                    6.53773823
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Iheanacho set to undergo West Ham medical as Manchester City reportedly accepts \u00a324m https://t.co/WwQ0115one", 
+                "created_at": "Sat May 27 11:10:09 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    3.35083008, 
+                    6.49407679
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Iheanacho set to undergo West Ham medical as Manchester City reportedly accepts \u00a324m https://t.co/5XAG9pdItU", 
+                "created_at": "Sat May 27 11:10:13 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.89943716, 
+                    52.48416375
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Silence for Manchester victims at #Birmingham's Pride festival https://t.co/8bFmcDqRd9 #Birmingham https://t.co/P3Q9qWKfb6", 
+                "created_at": "Sat May 27 11:12:10 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.24185467, 
+                    53.47872452
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Manchester Art Gallery in Manchester https://t.co/xcBAywaIip", 
+                "created_at": "Sat May 27 11:12:20 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -54.6463026, 
+                    -20.4536554
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Reino Unido: Pol\u00edcia de Manchester prender mais dois suspeitos de terrorismo https://t.co/KZv0WsdZ69", 
+                "created_at": "Sat May 27 11:12:34 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.24416667, 
+                    53.47916667
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Yes we do! \u2764\ufe0f\ud83d\udc1d #manchester #welovemcr #cityunited @ Manchester city centre https://t.co/TTWQQg9552", 
+                "created_at": "Sat May 27 11:12:46 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.2333, 
+                    53.4667
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Summer summer summer time... @ Manchester, United Kingdom https://t.co/FrocGTqJZX", 
+                "created_at": "Sat May 27 11:13:08 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.1072084, 
+                    51.50536327
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Minute\u2019s silence for Manchester bombing victims observed across Barking and Dagenham https://t.co/AHv0NH6Z15 #London https://t.co/LOsnLOr0Uj", 
+                "created_at": "Sat May 27 11:14:07 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.2333, 
+                    53.4667
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "All across the city \u2764\ufe0f#westandtogether #manchester #workerbee #love #staystrong #northernquarter\u2026 https://t.co/YYA0i4JrHN", 
+                "created_at": "Sat May 27 11:17:06 +0000 2017"
+            }
+        }
+    ]
+}
