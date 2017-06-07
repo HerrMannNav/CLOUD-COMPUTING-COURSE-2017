@@ -1,0 +1,8 @@
+it depends for which and how large data set your program is good. 
+when we run the program we can see 
+if i run it fro 1000 the test accuracy is 0.963
+if i run it for 600 training session it the acccuracy is 0.920
+if i run it for 300 training sessions the accuracy is about 0.926
+ 
+ the conclusion is that the more you train your data the more accuracy you will get.
+ 
